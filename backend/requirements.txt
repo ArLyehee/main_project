@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+cx_Oracle
+python-multipart
+aiofiles
+zipstream-new
